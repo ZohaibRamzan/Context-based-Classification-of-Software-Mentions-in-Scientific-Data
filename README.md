@@ -9,7 +9,7 @@ To know about which software / framework that researchers mostly use in their wo
 <ul>
 <li>To classify the Software Mentions appearing in text data , extracted from Bio medical and Social
 Sciences articles or research papers.</li>
-<li>To provide basis for building SoftwareKG</li>
+<li>To provide basis for building Software Knowledge Graph</li>
 </ul>
 <h2>Classifcation</h2>
 There are four classes in which software mentions will be categorized as per their context.
