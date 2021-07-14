@@ -71,3 +71,21 @@ availability by the researcher</li>
 <li>m ax_features No of features to consider when deciding for best split at nodes</li>
       <li>min_samples_leaf Min no of samples that should be at leaf node</li></ul>
   </li>
+  <h2>Results</h2>
+  <li>Training Dataset 70%, Test Dataset 30%</li>
+  
+  
+  <table>
+  <tr>
+    <th>Data</th>
+    <th>F1 Score(%)</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    </table>
