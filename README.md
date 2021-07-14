@@ -25,6 +25,10 @@ availability by the researcher</li>
 <h2>Data Pre-processing</h2>
 <ol>
   <li>Annotated Software mentions using Brat Annotation Tool</li>
+  <ul>
+    <li> 1,727 Files were annotated</li>
+    <li>5,309 Sentences were annotated and extracted for Feature Space</li>
+  </ul>
 <li>Brat Standoff Format to BIO Encoded Format
 <ul>
   <li>Relevant Sentence Extraction</li>
@@ -32,3 +36,4 @@ availability by the researcher</li>
   <li>BIO Encoding</li>
   </li>
 </ol>
+
