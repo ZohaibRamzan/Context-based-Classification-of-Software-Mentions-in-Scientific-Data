@@ -89,5 +89,5 @@ availability by the researcher</li>
     <td>60.37</td>
   </tr>
     </table>
-  ![Alt text]RandomForestTrainingwithHyperparametertuning.PNG?raw=true "Title")
-  ![alt text](https://github.com/[ZohaibRamzan]/[Contextual-based-Classification-of-Software-Mentions-in-Scientific-Data-]/edit/[main]/RandomForestTrainingwithHyperparametertuning.PNG?raw=true)
+  ![Alt text] RandomForestTrainingwithHyperparametertuning.PNG?raw=true "Title")
+  ![alt text](https://github.com/[ZohaibRamzan]/[Contextual-based-Classification-of-Software-Mentions-in-Scientific-Data-]/[main]/RandomForestTrainingwithHyperparametertuning.PNG?raw=true)
