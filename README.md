@@ -89,3 +89,5 @@ availability by the researcher</li>
     <td>60.37</td>
   </tr>
     </table>
+  
+  <img src=””>
