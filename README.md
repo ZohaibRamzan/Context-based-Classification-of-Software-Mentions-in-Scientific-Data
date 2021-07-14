@@ -21,3 +21,14 @@ actually used it.</li>
 <li>Deposition-If software is being first created and then deposited it somewhere for future
 availability by the researcher</li>
 </ol>
+
+<h2>Data Pre-processing</h2>
+<ol>
+  <li>Annotated Software mentions using Brat Annotation Tool</li>
+<li>Brat Standoff Format to BIO Encoded Format
+<ul>
+  <li>Relevant Sentence Extraction</li>
+  <li>Sentence Tokenization</li>
+  <li>BIO Encoding</li>
+  </li>
+</ol>
