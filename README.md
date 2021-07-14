@@ -51,7 +51,7 @@ availability by the researcher</li>
  <li>Generate Word Embeddings for POS tags of Contextual Words
   </li>
 <li>Generate Specific Class based features
-  <li>Frequent Words, Frequent tags etc.</li>
+  <ul><li>Frequent Words, Frequent tags etc.</li></ul>
   </li>
 <li>Features Concatenation</li>
 </ul>
