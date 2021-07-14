@@ -55,5 +55,19 @@ availability by the researcher</li>
   </li>
 <li>Features Concatenation</li>
 </ul>
-  
-
+<h2>Modeling</h2>
+<ul>
+<li>Chose Random Forest Classifier (RF) from Scikit learn
+<ul>
+  <li>Best Classical Machine Learning Algorithm</li>
+  <li>Anticipating performance and better predictability</li>
+  </ul>
+  </li>
+  <li>Hyperparameters in RF
+    <ul>
+      <li>n_estimators No of trees in RF</li>
+<li>max_depth depth of tree to fit to samples</li>
+<li>c riterion information gain criteria at each node split</li>
+<li>m ax_features No of features to consider when deciding for best split at nodes</li>
+      <li>min_samples_leaf Min no of samples that should be at leaf node</li></ul>
+  </li>
