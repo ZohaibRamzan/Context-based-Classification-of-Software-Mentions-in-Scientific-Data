@@ -81,11 +81,11 @@ availability by the researcher</li>
     <th>F1 Score(%)</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Training</td>
+    <td>97.55</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>Test</td>
+    <td>60.37</td>
   </tr>
     </table>
