@@ -1,4 +1,4 @@
-# Contextual-based-Classification-of-Software-Mentions-in-Scientific-Data(Bio-medical & Life Sciences)
+# Context-based-Classification-of-Software-Mentions-in-Scientific-Data(Bio-medical & Life Sciences)
 (Code will be shared soon)
 <h2>Motivation</h2>
 <li>
