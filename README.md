@@ -37,3 +37,23 @@ availability by the researcher</li>
   </li>
 </ol>
 
+<h2>Feature Engineering</h2>
+<ul>
+  <li>Replace Software Mentions with place holder</li>
+ <li>Extract Software Mentions Contextual Features
+  <ul><li>Find out Software Mentions Position</li>
+  <li>Extract Contextual Words as per window_size of 3</li>
+    <li>Padding if needed</li></ul></li>
+   
+<li>Generate Word Embeddings of Contextual Words
+<ul><li>Used Pre trained Model (wikipedia pubmed and PMC w2v.bin)
+  </li></ul>
+ <li>Generate Word Embeddings for POS tags of Contextual Words
+  </li>
+<li>Generate Specific Class based features
+  <li>Frequent Words, Frequent tags etc.</li>
+  </li>
+<li>Features Concatenation</li>
+</ul>
+  
+
