@@ -90,3 +90,7 @@ availability by the researcher</li>
   </tr>
     </table>
 
+  <h2>License and Copyright</h2>
+  This Code is written in scope of my pre-thesis at Rostock University, Germany.
+  Licensed under the [MIT License] (LICENSE).
+  
