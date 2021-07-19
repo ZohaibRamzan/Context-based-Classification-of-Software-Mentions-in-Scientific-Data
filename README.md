@@ -22,6 +22,11 @@ actually used it.</li>
 availability by the researcher</li>
 </ol>
 
+<h2>Dataset Copyrights</h2>
+This dataset is originally created by Rostock University developers and is their property.
+For commercial re-use of this data, contact the university administration.
+
+
 <h2>Data Pre-processing</h2>
 <ol>
   <li>Annotated Software mentions using Brat Annotation Tool</li>
